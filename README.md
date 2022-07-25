@@ -1,6 +1,6 @@
 # Blazor_FullStack_CRUD
 
-Practice CRUD operations using C# Blazor, Entity Framework, and SQL Server.
+Practice CRUD operations using C# Blazor, Entity Framework, and SQL Server for the database.
 
 1. Main page <br />
 
